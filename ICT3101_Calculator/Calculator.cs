@@ -1,6 +1,7 @@
-﻿public class Calculator
+﻿using ICT3101_Calculator;
+
+public class Calculator
 {
-    public Calculator() { }
     public double DoOperation(double num1, double num2, string op, double? num3 = null)
     {
         double result = double.NaN; // Default value
@@ -164,5 +165,18 @@
     public int ComputeTotalSSIForSuccessiveReleases(int prevSSI, int additionalSSI)
     {
         return prevSSI + additionalSSI;
+    }
+    public double GenMagicNum(double input, IFileReader? fileReader = null)
+    {
+        fileReader ??= new FileReader();
+        double result = 0;
+        int choice = Convert.ToInt16(input);
+        string[] magicStrings = fileReader.Read("MagicNumbers.txt");
+        if ((choice >= 0) && (choice < magicStrings.Length))
+        {
+            result = Convert.ToDouble(magicStrings[choice]);
+        }
+        result = (result > 0) ? (2 * result) : (-2 * result);
+        return result;
     }
 }

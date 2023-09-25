@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLGD3et/T9pMcKL5NZpn+T7gF8+y5tHmtMepG2sraKo2bOIr7L0CkxcGGWKaggS99diy7F0NQ7LxCcg0S2gDzA==",
+  "dgSpecHash": "g45TZvomZfjo851aZFJfOLStQKObNPl/fpgDjzZh8yF8IdX0BsDYKMmlmAGPWVEh6wncdMYAsoTpscKRI9sqKQ==",
   "success": true,
   "projectFilePath": "/Users/shaunv/Desktop/SIT_Y3/3101/3101_labs/ICT3101_Calculator/ICT3101_Calculator.csproj",
   "expectedPackageFiles": [
     "/Users/shaunv/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
+    "/Users/shaunv/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/fluentassertions/6.7.0/fluentassertions.6.7.0.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/gherkin/19.0.3/gherkin.19.0.3.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
@@ -15,6 +16,7 @@
     "/Users/shaunv/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/microsoft.win32.registry/4.3.0/microsoft.win32.registry.4.3.0.nupkg.sha512",
+    "/Users/shaunv/.nuget/packages/moq/4.20.69/moq.4.20.69.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/nunit/3.13.1/nunit.3.13.1.nupkg.sha512",
@@ -58,6 +60,7 @@
     "/Users/shaunv/.nuget/packages/system.configuration.configurationmanager/4.5.0/system.configuration.configurationmanager.4.5.0.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/system.diagnostics.diagnosticsource/4.3.0/system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "/Users/shaunv/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/system.diagnostics.process/4.3.0/system.diagnostics.process.4.3.0.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/system.diagnostics.tools/4.0.1/system.diagnostics.tools.4.0.1.nupkg.sha512",
     "/Users/shaunv/.nuget/packages/system.diagnostics.tracing/4.3.0/system.diagnostics.tracing.4.3.0.nupkg.sha512",
