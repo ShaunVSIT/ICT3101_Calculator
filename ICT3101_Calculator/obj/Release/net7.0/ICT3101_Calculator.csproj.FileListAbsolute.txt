@@ -1,0 +1,15 @@
+/Users/shaunv/Projects/ICT3101_Calculator/bin/Release/net7.0/ICT3101_Calculator
+/Users/shaunv/Projects/ICT3101_Calculator/bin/Release/net7.0/ICT3101_Calculator.deps.json
+/Users/shaunv/Projects/ICT3101_Calculator/bin/Release/net7.0/ICT3101_Calculator.runtimeconfig.json
+/Users/shaunv/Projects/ICT3101_Calculator/bin/Release/net7.0/ICT3101_Calculator.dll
+/Users/shaunv/Projects/ICT3101_Calculator/bin/Release/net7.0/ICT3101_Calculator.pdb
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ICT3101_Calculator.csproj.AssemblyReference.cache
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ICT3101_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ICT3101_Calculator.AssemblyInfoInputs.cache
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ICT3101_Calculator.AssemblyInfo.cs
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ICT3101_Calculator.csproj.CoreCompileInputs.cache
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ICT3101_Calculator.dll
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/refint/ICT3101_Calculator.dll
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ICT3101_Calculator.pdb
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ICT3101_Calculator.genruntimeconfig.cache
+/Users/shaunv/Projects/ICT3101_Calculator/obj/Release/net7.0/ref/ICT3101_Calculator.dll

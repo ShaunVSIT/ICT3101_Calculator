@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SpecFlow" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.NUnit.Runners" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.9.74" />
+    <PackageReference Include="FluentAssertions" Version="6.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="SpecFlowCalculatorTests\Features\UsingCalculatorAddition.feature" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckBuild Remove="SpecFlowCalculatorTests\Features\UsingCalculatorAddition.feature.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <CustomAdditionalCompileInputs Remove="SpecFlowCalculatorTests\Features\UsingCalculatorAddition.feature.cs" />
+  </ItemGroup>
+
+</Project>

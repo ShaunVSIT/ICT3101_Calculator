@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{149F077B-D22D-4F4A-82F5-81A09D4E3BC4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="30" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ICT3101_Calculator" expanded="True">
+            <Node name="ICT3101_Calculator" expanded="True">
+              <Node name="SpecFlowCalculatorTests" expanded="True" />
+            </Node>
+            <Node name="ICT3101_Calculator.UnitTests" expanded="True" />
+            <Node name="SpecFlowCalculatorTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ICT3101_Calculator" expanded="True">
+            <Node name="ICT3101_Calculator.UnitTests" expanded="True">
+              <Node name="ICT3101_Caculator.UnitTests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ICT3101__Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

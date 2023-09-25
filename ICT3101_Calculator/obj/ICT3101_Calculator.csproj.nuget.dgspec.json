@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shaunv/Desktop/SIT_Y3/3101/3101_labs/ICT3101_Calculator/ICT3101_Calculator.csproj": {}
+  },
+  "projects": {
+    "/Users/shaunv/Desktop/SIT_Y3/3101/3101_labs/ICT3101_Calculator/ICT3101_Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shaunv/Desktop/SIT_Y3/3101/3101_labs/ICT3101_Calculator/ICT3101_Calculator.csproj",
+        "projectName": "ICT3101_Calculator",
+        "projectPath": "/Users/shaunv/Desktop/SIT_Y3/3101/3101_labs/ICT3101_Calculator/ICT3101_Calculator.csproj",
+        "packagesPath": "/Users/shaunv/.nuget/packages/",
+        "outputPath": "/Users/shaunv/Desktop/SIT_Y3/3101/3101_labs/ICT3101_Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shaunv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit.Runners": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
